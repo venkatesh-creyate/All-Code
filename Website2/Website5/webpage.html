@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+	<style>
+
+		h1, p
+		{
+			text-align: center;
+		}
+
+		#header, #subject
+		{
+			cursor: pointer;
+		}
+
+		#subject
+		{
+			border-bottom: 1px solid black;
+		}
+
+	</style>
+
+</head>
+
+<body>
+
+	<div id="header">
+		<h1> Line </h1>
+	</div>
+
+	<div id="subject">
+		<p id="line" onClick="clickline2(this.id)"> Line 2 </p>
+	</div>
+
+	<div id="sub-subject">
+		<p id="sub-sub-subject">
+			Click
+		</p>
+	</div>
+
+	<script>
+
+		function clickline2(id)
+		{
+
+			document.getElementById("sub-sub-subject").innerHTML= 
+												"Click on "+ document.getElementById(id).innerHTML;
+		}
+
+	</script>
+
+
+</body>
+
+</html>

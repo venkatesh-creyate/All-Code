@@ -1,0 +1,127 @@
+
+	html, body
+	{
+		margin: 0px;
+		padding: 0px;
+	}
+
+	body
+	{
+		background-color: maroon;
+		color: white;
+	}
+
+	h1#heading
+	{
+		font-size: 40px;
+		margin-bottom: 16px;
+	}
+
+	h1#heading-below
+	{
+		font-size: 15px;
+	}
+
+	legend
+	{
+		font-size: 17px;
+		font-weight: bold;
+	}
+
+	fieldset
+	{
+		padding-top: 10px;
+		padding-bottom: 18px;
+		padding-left: 16px;
+	}
+
+	.header
+	{
+		text-align: center;
+		padding-bottom: 12px;
+		border-bottom: 2px solid white;
+	}
+
+	.subject .options
+	{
+		width: 15%;
+		height: 540px;
+		border-right: 2px solid white;
+		float: left;
+		min-width:99px;
+	}
+
+	.subject-heading
+	{
+		font-size: 18px;
+		font-weight: bold;
+		text-align: center;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		border-bottom: 2px solid white;
+		margin-bottom: 19px;
+	}
+
+	.sub-subject
+	{
+		padding-right:9%;
+		padding-left: 9%;
+	}
+
+	.subject .options .gender
+	{
+		padding-bottom: 12px;
+	}
+
+	.subject .options .category
+	{
+		padding-bottom: 12px;
+	}
+
+	.subject .options .category .select-all
+	{
+		padding-bottom: 10px;
+		border-bottom: 2px solid white;
+	}
+
+	.subject .options .category .select
+	{
+		padding-top: 10px;
+	}
+
+	.subject .sort
+	{
+		width: 18%;
+		height: 540px;
+		text-align: center;
+		border-right: 2px solid white;
+		float: left;
+		min-width: 199px;
+	}
+
+	.subject .sort .sort-type
+	{
+		width: 40%;
+		text-align: left;
+		padding-left: 5%;
+		margin-bottom: 20px;
+		float: left;
+	}
+
+	.subject .sort .sort-order
+	{
+		width: 55%;
+		text-align: left;
+		margin-bottom: 20px;
+		float: left;
+	}
+
+	.subject .search
+	{
+		width: 30%;
+		height: 540px;
+		text-align: center;
+		border-right: 2px solid white;
+		float: left;
+		min-width: 199px;
+	}

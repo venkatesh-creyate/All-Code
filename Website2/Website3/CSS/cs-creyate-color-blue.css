@@ -1,0 +1,249 @@
+
+	html, body
+	{
+		margin: 0px;
+		padding: 0px;
+		font-family: Tex Gyre Adventor;
+	}
+
+	body
+	{
+		background-color: white;
+		color: black;
+	}
+
+	h1#heading
+	{
+		font-size: 40px;
+		margin-top: 0px;
+		margin-bottom: 16px;
+		padding-top: 16px;
+	}
+
+	h1#heading-below
+	{
+		font-size: 15px;
+	}
+
+	legend
+	{
+		font-size: 17px;
+		font-weight: bold;
+	}
+
+	fieldset
+	{
+		padding-top: 10px;
+		padding-bottom: 18px;
+		padding-left: 16px;
+		border: 1px solid black;
+	}
+
+	input[type="submit"]
+	{
+		
+		color: black;
+		background-color:white;
+		font-family: Tex Gyre Adventor;
+		letter-spacing: 0.1em;
+		height: 31px;
+		width: 92px;
+		font-weight: bold;
+		border: 1px solid black;
+		cursor: pointer;
+	}
+	
+	input[type="submit"]:hover
+	{
+		color: #085EAE;
+		border: 1px solid #085EAE;
+	}
+	
+	input[type="submit"]:focus
+	{
+		outline: none;
+	}
+
+	input[type="submit"]#all-button-form, #current-button-form
+	{
+		height: 34px;
+		width: 60%;
+	}
+
+	#sort-button
+	{
+		width: 48%;
+		height: 31px;
+	}
+
+	input[type="radio"]
+	{
+		cursor: pointer;
+	}
+
+	input[type="text"]
+	{
+		font-family: Tex Gyre Adventor;
+		border: 1px solid black;
+	}
+
+	input[type="text"]:hover
+	{
+		border: 1px solid gray;
+	}
+
+	input[type="text"]:focus
+	{
+		outline: none;
+		border: 1px solid #085EAE;
+	}
+
+	#search-textbox
+	{
+		margin-top: 12px;
+		padding-left: 2%;
+		padding-right: 2%;
+		padding-top: 2px;
+		padding-bottom: 2px;
+		height: 22px;
+		width: 86%;
+	}
+
+	input[type="checkbox"]:hover
+	{
+		cursor: pointer;
+	}
+
+	.header
+	{
+		text-align: center;
+		font-family: Tex Gyre Adventor;
+		letter-spacing: 0.4em;
+		color: white;
+		text-shadow: 1px 1px 2px rgba(0,0,0,0.6);
+		background-color:#085EAE;
+		padding-bottom: 12px;
+		border-bottom: 1px solid black;
+	}
+
+	.subject
+	{
+		font-size: 14px;
+	}
+
+	.subject-heading
+	{
+		font-family: Tex Gyre Adventor;
+		color: white;
+		text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+		background-color: #31C3E7;
+		letter-spacing: 0.1em;
+		font-size: 18px;
+		font-weight: bold;
+		text-align: center;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		border-bottom: 1px solid black;
+		margin-bottom: 19px;
+	}
+
+	.sub-subject
+	{
+		padding-right:9%;
+		padding-left: 9%;
+	}
+
+	.subject .options
+	{
+		width: 15%;
+		height: 540px;
+		/*border-right: 1px solid black;*/
+		float: left;
+		min-width:99px;
+	}
+
+	.subject .options .gender
+	{
+		padding-bottom: 12px;
+	}
+
+	.subject .options .category
+	{
+		padding-bottom: 12px;
+	}
+
+	.subject .options .category .select-all
+	{
+		padding-bottom: 10px;
+		border-bottom: 1px solid black;
+	}
+
+	.subject .options .category .select
+	{
+		padding-top: 10px;
+	}
+
+	.subject .sort
+	{
+		width: 19%;
+		height: 540px;
+		text-align: center;
+		/*border-right: 1px solid black;*/
+		float: left;
+		min-width: 199px;
+	}
+
+	.subject .sort .sort-type
+	{
+		width: 40%;
+		text-align: left;
+		padding-left: 5%;
+		margin-bottom: 20px;
+		float: left;
+	}
+
+	.subject .sort .sort-order
+	{
+		width: 55%;
+		text-align: left;
+		margin-bottom: 20px;
+		float: left;
+	}
+
+	.subject .search-and-all-buttons
+	{
+		height: 540px;
+		width: 34%;
+		/*border-right: 1px solid black;*/
+		float: left;
+	}
+
+	.subject .search
+	{
+		height: 180px;
+		width: 100%;
+		text-align: center;
+		border-bottom: 1px solid black;
+		min-width: 199px;
+	}
+
+	.subject .all-buttons
+	{
+		height: 130px;
+		width: 100%;
+		border-bottom: 1px solid black;
+	}
+
+	#all-button
+	{
+		float: left;
+		width: 50%;
+		text-align: center;
+	}
+
+	#current-button
+	{
+		float: left;
+		width: 50%;
+		text-align: center;
+	}

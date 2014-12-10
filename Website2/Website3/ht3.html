@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+
+		<!--<link rel="stylesheet" href="cs-maroon.css">-->
+
+		<!--<link rel="stylesheet" href="cs-creyate.css">-->
+
+		<!--<link rel="stylesheet" href="cs-creyate-color-maroon.css">-->
+
+		<link rel="stylesheet" href="CSS/cs-creyate-color-blue.css">
+
+	</head>
+
+<body>
+
+	<div class= "header">
+
+		<h1 id="heading"> THE HEADING </h1>
+
+		<h1 id="heading-below"> The heading below </h1>
+
+	</div>
+
+	<div class= "subject">
+
+		<div class= "options">
+
+			<div class="subject-heading">
+				OPTIONS
+			</div>
+
+			<div class="sub-subject">
+				<div class= "gender">
+
+					<fieldset>
+
+						<legend>
+							Gender
+						</legend>
+
+						<form>
+							<input type= "checkbox" name= "gender-form" value= "Mens" checked/> Mens <br/>
+							<input type= "checkbox" name= "gender-form" value= "Womens"/> Womens <br/>
+						</form>
+
+					</fieldset>
+
+				</div>
+
+				<div class= "category">
+
+					<fieldset>
+
+						<legend>
+							Category
+						</legend>
+
+						<form>
+
+							<div class="select-all">
+
+								<input type= "checkbox" onClick="checkboxAllOnClick(this.id)" 
+								name= "category-form" value= "select all" id="selectAll" checked/> 
+																						Select All <br/>
+
+							</div>
+
+							<div class="select">
+
+								<input type= "checkbox" onClick="checkboxAllOnClick(this.id)" 
+								name= "category-form" value= "shirts" id="shirts" checked/> Shirts <br/>
+
+								<input type= "checkbox" onClick="checkboxAllOnClick(this.id)" 
+								name= "category-form" value= "chinos" id="chinos" checked/> Chinos <br/>
+
+								<input type= "checkbox" onClick="checkboxAllOnClick(this.id)" 
+								name= "category-form" value= "jeans" id="jeans" checked/> Jeans <br/>
+
+								<input type= "checkbox" onClick="checkboxAllOnClick(this.id)" 
+								name= "category-form" value= "suits" id="suits" checked/> Suits <br/>
+
+								<input type= "checkbox" onClick="checkboxAllOnClick(this.id)" 
+								name= "category-form" value= "blazers" id="blazers" checked/> Blazers <br/>
+
+								<input type= "checkbox" onClick="checkboxAllOnClick(this.id)" 
+								name= "category-form" value= "trousers" id="trousers" checked/> Trousers <br/>
+
+							</div>
+						</form>
+
+					</fieldset>
+
+				</div>
+
+				<div class= "systems">
+
+					<fieldset>
+
+						<legend>
+							Systems
+						</legend>
+
+						<form>
+							<input type= "checkbox" name= "systems-form" value= "system 152" checked/>
+																					System 152 <br/>
+
+							<input type= "checkbox" name= "systems-form" value= "system 155" checked/> 
+																					System 155 <br/>
+
+							<input type= "checkbox" name= "systems-form" value= "photoshop 2" checked/> 
+																					Photoshop 2 <br/>
+						</form>
+
+					</fieldset>
+
+				</div>
+
+			</div>
+
+		</div>
+
+			<div class= "sort">
+
+				<div class= "subject-heading">
+					SORT BY
+				</div>
+				<div class="sub-subject">
+					<div class="sort-type">
+						<form>
+
+							<input type="radio" name="sort-type-form"> ID <br/>
+							<input type="radio" name="sort-type-form" checked> Date <br/>
+
+						</form>
+					</div>
+
+					<div class="sort-order">
+
+						<form>
+
+							<input type="radio" name="sort-order-form"> Ascending <br/>
+							<input type="radio" name="sort-order-form"> Descending <br/>
+
+						</form>
+				
+					</div>
+
+					<input type="submit" id="sort-button" name= "sort-submit" value= "SORT">
+
+				</div>
+
+			</div>
+
+			<div class="search-and-all-buttons">
+			<div class= "search">
+
+				<div class= "subject-heading">
+					SEARCH BY
+				</div>
+
+				<div class="sub-subject">
+
+					<form>
+
+						<div style="margin-bottom:10px">
+							<input type= "radio" name="search-form" value="id"> ID 
+							<input type= "radio" name="search-form" value="system-name"> System
+							<input type= "radio" name= "search-form" value="date" checked> Date
+						</div>
+
+						<input type= "text" name= "search-text" id="search-textbox">
+
+					</form>
+
+				</div>
+
+			</div>
+
+			<div class= "all-buttons">
+
+				<div class= "subject-heading">
+					BUTTONS
+				</div>
+
+				<div class= "sub-subject">
+
+					<form>
+						<div id= "all-button">
+							<input type="submit" id="all-button-form" value="ALL"/>
+						</div>
+
+						<div id= "current-button">
+							<input type="submit" id="current-button-form" value="CURRENT"/>
+						</div>
+					</form>
+				</div>
+			</div>
+
+		</div>
+
+	</div>
+
+	<script src="JavaScript/javascrip-3.js">
+
+	</script>
+
+</body>
+
+</html>

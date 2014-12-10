@@ -1,0 +1,162 @@
+
+	body
+	{
+		margin: 0px;
+		padding: 0px;	
+	}
+
+	button
+	{
+		height: 35px;
+		width: 99px;
+		background-color: white;
+		color: black;
+		outline: none;
+		cursor: pointer;
+		letter-spacing: 0.1em;
+		font-weight: bold;
+		font-family: Tex Gyre Adventor;
+		border: 1px solid black;
+	}
+
+	button:hover
+	{
+		color: #085EAE;
+		border: 1px solid #085EAE;
+	}
+
+	
+	button:active
+	{
+		color: #085EAE;
+		border: 1px solid #4285F4;
+	}
+
+	input[type="text"]
+	{
+		height: 18px;
+		width: 30%;
+		padding-left: 1%;
+		padding-right: 1%;
+		padding-top: 3px;
+		padding-bottom: 3px;
+		font-size: 12px;
+		font-family: Tex Gyre Adventor;
+		border: 1px solid black;
+	}
+
+	input[type="text"]:hover
+	{
+		border: 1px solid gray;
+	}
+
+	input[type="text"]:focus
+	{
+		outline: none;
+		border: 1px solid #4285F4;
+	}
+
+	input[type="radio"]:hover
+	{
+		cursor: pointer;
+	}
+
+	input[type="checkbox"]:hover
+	{
+		cursor: pointer;
+	}
+	
+
+	.header
+	{
+		height: 130px;
+		/*background-color: #CFCFCF;*/
+		background-color: #4285F4;
+		font-family: Tex Gyre Adventor;
+		color: white;
+		letter-spacing: 0.4em;
+		text-align: center;
+		margin-top: 0px;
+		margin-bottom: 30px;
+		padding-top: 18px;
+		text-shadow: 1px 1px 3px rgba(2,2,2,0.8);
+		border-bottom: 1px solid black;
+	}
+
+	.buttons
+	{
+		text-align: center;
+		width: 100%;
+		margin-bottom: 20px;
+	}
+
+	.subject
+	{
+		font-family: Tex Gyre Adventor;
+	}
+
+	#planesAllForm
+	{
+		text-align: left;
+		width: 15%;
+		padding-left: 3%;
+		padding-bottom: 17px;
+		margin-bottom: 17px;
+		border-bottom: 1px solid black;
+	}
+
+	#planesForm
+	{
+		text-align: left;
+		width: 15%;
+		padding-left: 3%;
+	}
+	.subject #button-paragraph
+	{
+		height: auto;
+		width: 60%;
+		float: left;
+		text-align: center;
+	}
+
+	.subject #options
+	{
+		margin-bottom:6px;
+	}
+
+	#switchFormBlock
+	{
+		height: auto;
+		text-align:left;
+		padding-left: 46%;
+	}
+
+	.subject #sub-heading
+	{
+		font-weight: bold;
+		color: #085EAE;
+		padding-bottom: 12px;
+	}
+
+	.subject #sub-subject
+	{
+		padding-bottom: 20px;
+	}
+
+	.subject #paragraph-line
+	{
+		text-align: center;
+	}
+
+	.subject #show-messages
+	{
+		float: left;
+		width: 28%;
+		text-align: center;
+	}
+
+	.subject #message-heading
+	{
+		padding-bottom: 20px;
+		margin-bottom: 6px;
+	}
