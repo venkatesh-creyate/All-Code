@@ -1,0 +1,93 @@
+
+
+ Connection successful 
+
+ Table has been received 
+Array
+(
+    [0] => Array
+        (
+            [sub_component] => outer_yoke
+            [component_name] => _back_yoke
+        )
+
+    [1] => Array
+        (
+            [sub_component] => inner_collar_band
+            [component_name] => _collar
+        )
+
+    [2] => Array
+        (
+            [sub_component] => left_front
+            [component_name] => _body
+        )
+
+    [3] => Array
+        (
+            [sub_component] => half_sleeve
+            [component_name] => _sleeve
+        )
+
+    [4] => Array
+        (
+            [sub_component] => full_sleeve
+            [component_name] => _sleeve
+        )
+
+    [5] => Array
+        (
+            [sub_component] => bottom_cuff_shell
+            [component_name] => _cuff
+        )
+
+    [6] => Array
+        (
+            [sub_component] => top_cuff_shell
+            [component_name] => _cuff
+        )
+
+    [7] => Array
+        (
+            [sub_component] => cuff_piping
+            [component_name] => _cuff
+        )
+
+    [8] => Array
+        (
+            [sub_component] => inner_yoke
+            [component_name] => _back_yoke
+        )
+
+    [9] => Array
+        (
+            [sub_component] => top_button_placket
+            [component_name] => _placket
+        )
+
+    [10] => Array
+        (
+            [sub_component] => top_buttonhole_placket
+            [component_name] => _placket
+        )
+
+    [11] => Array
+        (
+            [sub_component] => pocket
+            [component_name] => _pocket
+        )
+
+    [12] => Array
+        (
+            [sub_component] => outer_collar_band
+            [component_name] => _collar
+        )
+
+    [13] => Array
+        (
+            [sub_component] => top_collar
+            [component_name] => _collar
+        )
+
+)
+

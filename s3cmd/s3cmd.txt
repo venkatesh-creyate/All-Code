@@ -1,0 +1,2140 @@
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB01/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB01/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB01/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB01/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB01/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF01-JB01/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB01/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB01/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB01/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB01/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF01-JB01/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB02/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB02/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB02/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB02/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB02/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF01-JB02/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB02/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB02/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB02/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB02/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF01-JB02/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB03/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB03/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB03/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB03/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB03/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF01-JB03/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB03/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB03/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB03/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB03/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF01-JB03/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB04/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB04/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB04/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB04/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB04/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF01-JB04/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB04/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB04/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB04/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB04/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF01-JB04/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB05/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB05/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB05/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB05/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB05/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF01-JB05/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB05/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB05/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB05/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF01-JB05/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF01-JB05/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB01/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB01/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB01/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB01/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB01/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF02-JB01/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB01/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB01/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB01/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB01/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF02-JB01/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB02/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB02/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB02/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB02/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB02/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF02-JB02/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB02/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB02/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB02/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB02/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF02-JB02/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB03/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB03/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB03/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB03/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB03/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF02-JB03/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB03/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB03/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB03/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB03/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF02-JB03/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB04/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB04/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB04/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB04/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB04/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF02-JB04/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB04/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB04/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB04/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB04/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF02-JB04/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB05/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB05/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB05/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB05/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB05/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF02-JB05/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB05/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB05/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB05/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF02-JB05/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF02-JB05/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB01/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB01/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB01/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB01/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB01/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF03-JB01/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB01/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB01/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB01/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB01/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF03-JB01/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB02/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB02/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB02/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB02/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB02/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF03-JB02/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB02/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB02/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB02/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB02/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF03-JB02/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB03/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB03/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB03/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB03/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB03/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF03-JB03/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB03/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB03/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB03/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB03/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF03-JB03/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB04/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB04/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB04/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB04/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB04/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF03-JB04/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB04/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB04/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB04/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB04/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF03-JB04/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB05/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB05/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB05/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB05/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB05/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF03-JB05/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB05/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB05/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB05/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF03-JB05/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF03-JB05/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB01/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB01/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB01/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB01/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB01/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF04-JB01/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB01/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB01/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB01/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB01/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF04-JB01/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB02/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB02/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB02/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB02/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB02/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF04-JB02/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB02/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB02/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB02/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB02/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF04-JB02/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB03/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB03/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB03/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB03/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB03/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF04-JB03/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB03/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB03/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB03/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB03/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF04-JB03/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB04/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB04/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB04/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB04/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB04/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF04-JB04/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB04/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB04/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB04/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB04/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF04-JB04/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB05/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB05/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB05/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB05/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB05/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF04-JB05/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB05/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB05/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB05/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF04-JB05/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF04-JB05/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB01/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB01/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB01/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB01/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB01/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF05-JB01/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB01/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB01/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB01/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB01/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF05-JB01/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB02/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB02/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB02/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB02/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB02/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF05-JB02/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB02/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB02/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB02/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB02/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF05-JB02/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB03/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB03/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB03/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB03/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB03/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF05-JB03/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB03/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB03/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB03/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB03/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF05-JB03/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB04/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB04/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB04/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB04/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB04/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF05-JB04/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB04/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB04/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB04/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB04/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF05-JB04/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB05/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB05/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB05/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB05/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB05/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF05-JB05/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB05/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB05/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB05/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM001/JF05-JB05/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM001/JF05-JB05/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB01/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB01/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB01/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB01/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB01/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF01-JB01/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB01/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB01/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB01/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB01/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF01-JB01/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB02/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB02/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB02/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB02/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB02/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF01-JB02/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB02/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB02/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB02/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB02/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF01-JB02/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB03/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB03/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB03/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB03/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB03/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF01-JB03/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB03/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB03/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB03/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB03/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF01-JB03/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB04/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB04/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB04/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB04/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB04/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF01-JB04/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB04/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB04/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB04/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB04/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF01-JB04/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB05/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB05/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB05/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB05/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB05/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF01-JB05/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB05/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB05/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB05/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF01-JB05/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF01-JB05/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB01/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB01/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB01/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB01/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB01/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF02-JB01/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB01/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB01/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB01/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB01/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF02-JB01/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB02/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB02/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB02/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB02/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB02/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF02-JB02/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB02/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB02/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB02/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB02/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF02-JB02/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB03/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB03/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB03/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB03/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB03/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF02-JB03/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB03/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB03/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB03/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB03/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF02-JB03/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB04/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB04/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB04/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB04/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB04/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF02-JB04/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB04/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB04/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB04/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB04/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF02-JB04/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB05/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB05/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB05/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB05/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB05/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF02-JB05/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB05/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB05/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB05/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF02-JB05/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF02-JB05/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB01/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB01/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB01/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB01/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB01/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF03-JB01/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB01/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB01/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB01/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB01/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF03-JB01/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB02/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB02/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB02/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB02/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB02/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF03-JB02/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB02/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB02/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB02/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB02/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF03-JB02/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB03/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB03/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB03/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB03/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB03/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF03-JB03/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB03/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB03/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB03/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB03/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF03-JB03/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB04/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB04/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB04/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB04/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB04/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF03-JB04/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB04/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB04/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB04/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB04/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF03-JB04/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB05/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB05/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB05/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB05/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB05/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF03-JB05/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB05/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB05/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB05/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF03-JB05/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF03-JB05/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB01/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB01/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB01/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB01/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB01/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF04-JB01/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB01/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB01/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB01/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB01/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF04-JB01/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB02/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB02/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB02/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB02/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB02/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF04-JB02/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB02/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB02/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB02/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB02/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF04-JB02/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB03/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB03/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB03/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB03/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB03/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF04-JB03/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB03/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB03/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB03/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB03/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF04-JB03/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB04/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB04/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB04/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB04/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB04/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF04-JB04/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB04/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB04/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB04/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB04/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF04-JB04/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB05/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB05/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB05/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB05/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB05/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF04-JB05/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB05/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB05/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB05/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF04-JB05/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF04-JB05/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB01/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB01/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB01/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB01/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB01/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF05-JB01/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB01/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB01/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB01/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB01/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF05-JB01/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB02/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB02/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB02/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB02/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB02/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF05-JB02/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB02/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB02/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB02/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB02/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF05-JB02/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB03/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB03/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB03/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB03/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB03/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF05-JB03/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB03/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB03/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB03/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB03/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF05-JB03/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB04/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB04/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB04/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB04/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB04/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF05-JB04/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB04/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB04/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB04/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB04/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF05-JB04/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB05/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB05/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB05/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB05/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB05/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF05-JB05/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB05/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB05/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB05/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM002/JF05-JB05/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM002/JF05-JB05/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB01/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB01/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB01/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB01/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB01/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF01-JB01/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB01/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB01/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB01/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB01/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF01-JB01/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB02/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB02/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB02/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB02/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB02/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF01-JB02/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB02/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB02/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB02/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB02/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF01-JB02/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB03/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB03/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB03/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB03/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB03/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF01-JB03/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB03/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB03/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB03/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB03/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF01-JB03/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB04/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB04/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB04/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB04/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB04/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF01-JB04/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB04/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB04/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB04/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB04/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF01-JB04/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB05/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB05/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB05/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB05/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB05/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF01-JB05/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB05/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB05/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB05/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF01-JB05/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF01-JB05/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB01/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB01/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB01/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB01/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB01/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF02-JB01/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB01/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB01/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB01/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB01/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF02-JB01/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB02/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB02/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB02/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB02/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB02/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF02-JB02/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB02/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB02/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB02/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB02/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF02-JB02/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB03/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB03/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB03/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB03/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB03/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF02-JB03/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB03/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB03/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB03/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB03/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF02-JB03/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB04/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB04/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB04/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB04/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB04/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF02-JB04/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB04/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB04/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB04/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB04/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF02-JB04/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB05/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB05/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB05/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB05/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB05/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF02-JB05/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB05/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB05/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB05/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF02-JB05/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF02-JB05/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB01/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB01/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB01/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB01/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB01/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF03-JB01/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB01/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB01/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB01/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB01/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF03-JB01/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB02/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB02/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB02/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB02/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB02/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF03-JB02/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB02/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB02/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB02/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB02/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF03-JB02/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB03/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB03/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB03/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB03/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB03/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF03-JB03/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB03/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB03/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB03/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB03/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF03-JB03/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB04/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB04/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB04/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB04/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB04/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF03-JB04/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB04/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB04/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB04/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB04/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF03-JB04/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB05/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB05/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB05/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB05/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB05/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF03-JB05/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB05/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB05/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB05/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF03-JB05/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF03-JB05/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB01/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB01/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB01/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB01/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB01/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF04-JB01/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB01/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB01/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB01/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB01/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF04-JB01/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB02/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB02/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB02/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB02/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB02/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF04-JB02/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB02/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB02/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB02/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB02/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF04-JB02/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB03/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB03/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB03/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB03/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB03/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF04-JB03/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB03/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB03/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB03/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB03/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF04-JB03/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB04/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB04/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB04/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB04/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB04/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF04-JB04/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB04/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB04/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB04/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB04/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF04-JB04/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB05/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB05/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB05/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB05/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB05/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF04-JB05/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB05/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB05/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB05/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF04-JB05/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF04-JB05/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB01/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB01/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB01/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB01/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB01/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF05-JB01/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB01/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB01/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB01/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB01/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF05-JB01/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB02/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB02/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB02/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB02/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB02/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF05-JB02/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB02/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB02/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB02/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB02/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF05-JB02/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB03/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB03/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB03/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB03/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB03/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF05-JB03/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB03/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB03/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB03/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB03/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF05-JB03/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB04/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB04/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB04/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB04/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB04/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF05-JB04/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB04/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB04/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB04/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB04/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF05-JB04/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB05/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB05/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB05/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB05/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB05/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF05-JB05/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB05/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB05/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB05/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM003/JF05-JB05/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM003/JF05-JB05/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM004/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM004/JF01-JB01/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM004/JF01-JB01/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM004/JF01-JB01/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM004/JF01-JB01/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM004/JF01-JB01/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM004/JF01-JB01/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM004/JF01-JB01/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM004/JF01-JB01/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM004/JF01-JB01/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM004/JF01-JB01/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM004/JF01-JB01/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM004/JF01-JB02/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM004/JF01-JB02/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM004/JF01-JB02/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM004/JF01-JB02/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM004/JF01-JB02/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM004/JF01-JB02/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM004/JF01-JB02/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM004/JF01-JB02/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM004/JF01-JB02/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM004/JF01-JB02/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM004/JF01-JB02/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM004/JF01-JB03/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM004/JF01-JB03/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM004/JF01-JB03/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM004/JF01-JB03/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM004/JF01-JB03/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM004/JF01-JB03/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM004/JF01-JB03/front/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM004/JF01-JB03/front/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM004/JF01-JB03/front/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM004/JF01-JB03/front/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM004/JF01-JB03/front/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM004/JF01-JB04/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM004/JF01-JB04/back/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM004/JF01-JB04/back/dummy/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM004/JF01-JB04/back/dummy/fabric/
+
+ Execute for 
+ s3cmd get --force s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM004/JF01-JB04/back/dummy/fabric/options.txt mens-jeans-new_3/1500/DENIM004/JF01-JB04/back/dummy/fabric/
+
+ Execute for 
+ s3cmd ls s3://ail.bkts.creyate.images2/mens-jeans-new_3/1500/DENIM004/JF01-JB04/front/
+
